@@ -1,0 +1,2 @@
+# Artificial-Neural-Networks-Classification-churn-guided-learning-project
+his project builds a deep learning classification model using TensorFlow/Keras to predict customer churn based on demographic and financial attributes. The workflow includes data preprocessing (One-Hot Encoding, Feature Scaling), model training with early stopping, Tensor Board monitoring, and model serialization for deployment-ready inference.
